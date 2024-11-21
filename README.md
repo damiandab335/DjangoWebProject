@@ -1,9 +1,9 @@
-To fetch external data to local database use:
-python manage.py fetch_exchange_rates
-Optional arguments:
-'-c', '--currencies'        'List of currencies to create exchange rates database for'
-'-s', '--start_date'        'Start date to load exchange rates'
-'-e', '--end_date',         'End date to load exchange rates'
+To fetch external data to local database use:\
+python manage.py fetch_exchange_rates\
+Optional arguments:\
+'-c', '--currencies'        'List of currencies to create exchange rates database for'\
+'-s', '--start_date'        'Start date to load exchange rates'\
+'-e', '--end_date',         'End date to load exchange rates'\
 
 Home page
 
